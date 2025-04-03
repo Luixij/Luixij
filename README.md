@@ -30,7 +30,7 @@
 
 ## 📂 Algunos proyectos recientes
 
-- 🖥️ [Digitalización de una papelería en Estella](https://github.com/Luixij)
+- 🖥️ [App de manejo de archivos CSV](https://github.com/Luixij/CSV_APP)
 - 🎮 App de personajes Rick and Morty con WPF + API REST
 - 🛒 Gestión de productos con PHP y MySQL
 - 🧩 Pruebas unitarias y arquitectura MVC en Java
