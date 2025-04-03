@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Imaicela
 
-<!--
-**Luixij/Luixij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Diseñador visual + 💻 Desarrollador en proceso.  
+Me encanta crear experiencias limpias, funcionales y visualmente atractivas.
 
-Here are some ideas to get you started:
+🔧 Actualmente explorando:
+- Desarrollo de aplicaciones multiplataforma (Java, WPF, .NET)
+- Automatización y digitalización de negocios físicos
+- UI/UX y diseño centrado en el usuario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
+
+🌐 Portafolio: [luisimaicela.com](https://luisimaicela.com)
+
+🚀 Revisa mis proyectos, ideas y experimentos aquí abajo ↓
