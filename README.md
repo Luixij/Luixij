@@ -31,7 +31,7 @@
 ## 📂 Algunos proyectos recientes
 
 - 🖥️ [App de manejo de archivos CSV](https://github.com/Luixij/CSV_APP)
-- 🎮 App de personajes Rick and Morty con WPF + API REST
+- 🎮 [App de personajes Rick and Morty con WPF + API REST](https://github.com/Luixij/Rick-and-Morty-WPF-Viewer)
 - 🛒 Gestión de productos con PHP y MySQL
 - 🧩 Pruebas unitarias y arquitectura MVC en Java
 
