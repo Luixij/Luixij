@@ -3,7 +3,7 @@
 <h3 align="center">🎨 Diseñador visual + 💻 Desarrollador en proceso</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ACBFD&center=true&vCenter=true&width=440&lines=Creador+de+experiencias+visuales;Diseñador+UI%2FUX+y+Desarrollador;Apasionado+por+la+tecnolog%C3%ADa+creativa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ACBFD&center=true&vCenter=true&width=440&lines=Hola+mundo;Diseñador+UI%2FUX+y+Desarrollador;Apasionado+por+la+tecnolog%C3%ADa+creativa" alt="Typing SVG" />
 </p>
 
 ---
